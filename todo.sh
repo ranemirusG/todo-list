@@ -18,5 +18,5 @@ if
     vim $selectedPath
 else
     echo "Invalid option. Try again.\n"
-    todo
+    $0
 fi
